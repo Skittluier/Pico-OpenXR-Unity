@@ -2,7 +2,7 @@
   "name": "com.unity.xr.openxr.picoxr",
   "displayName": "OpenXR PICO Plugin",
   "version": "1.0.0",
-  "unity": "2022.1.13f1",
+  "unity": "2022.1.13",
   "description": "Provides display and input support for PICO devices.",
   "keywords": [
     "picoxr",
